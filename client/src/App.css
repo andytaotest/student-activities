@@ -1,0 +1,46 @@
+/* App styling */
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Activity card styling */
+.activity-card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+  background-color: #f9f9f9;
+  transition: transform 0.3s ease-in-out;
+  width: 200px;
+}
+
+.activity-card:hover {
+  transform: translateY(-5px);
+}
+
+.activity-image {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.activity-details {
+  margin-top: 20px;
+}
+
+.activity-details h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.activity-details p {
+  color: #666;
+}
+
+/* Activity list styling */
+.activity-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
