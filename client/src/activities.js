@@ -41,6 +41,14 @@ const activities = [
     registration: "By 31 May 2024",
   },
   {
+    name: "Huawei Tech4City Competition 2024",
+    description: "AI for Inclusivity and AI for Sustainability",
+    url: "https://competition.intl.huaweicloud.com/intl/en-us/information/1201724770/introduction",
+    type: "Competition",
+    date: "26 Mar - Oct",
+    registration: "By 9 Jun 2024",
+  },
+  {
     name: "Computational Thinking using LittleBits Kit Workshop",
     description:
       "Teach 7-10 year old students the basics of circuitry & STEAM concepts using Little Bits.",
