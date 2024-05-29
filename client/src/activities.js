@@ -49,6 +49,15 @@ const activities = [
     registration: "By 9 Jun 2024",
   },
   {
+    name: "SMSA Website Design Competition",
+    description:
+      "By Saint Michael's Soccer Association, using Wix as design platform",
+    url: "https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fform.gov.sg%2F66504db8048abac4398da9bb&data=05%7C02%7Candy_tao%40rp.edu.sg%7Cd84ad2d432a14d6768f908dc7fafc2b5%7Cf688b0d079f040a4864435fcdee9d0f3%7C0%7C0%7C638525640140078064%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=t1Cdjtb2aYz%2FRjvK1O%2Fbg7UEV5ePzOdS%2FHLR2VzGlJI%3D&reserved=0",
+    type: "Competition",
+    date: "31 May - 26 Jun",
+    registration: "By 31 May 2024",
+  },
+  {
     name: "Computational Thinking using LittleBits Kit Workshop",
     description:
       "Teach 7-10 year old students the basics of circuitry & STEAM concepts using Little Bits.",
